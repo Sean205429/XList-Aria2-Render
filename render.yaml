@@ -4,7 +4,7 @@ services:
     name: xlist
     env: docker
     repo: https://github.com/Sean205429/XList-Aria2-Render.git # optional
-    region: Singapore # optional (defaults to oregon)
+    region: oregon # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     healthCheckPath: /
     envVars:
